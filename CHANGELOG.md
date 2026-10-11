@@ -19,3 +19,15 @@ All notable changes to the Source Engineering governance repo are recorded here.
 ### Notes
 
 - The per-channel kanban discipline rule was previously held in `Source-Engineering/project-governance/.github/discipline-rule.md`. It has been migrated here as the canonical home; the monorepo's copy is deprecated with a pointer.
+
+
+## 2026-10-11 (RFC-0001 in review)
+
+### Added
+
+- `RFC/0001-v0.2-floor-layer-2.md` -- the second foundational RFC. Proposes flooring Layer 2 (Runtime Validation) as the v0.2 floor. Open for review until 2026-10-25.
+
+### Notes
+
+- The v0.2 floor is the natural next step after v0.1 (Typed Model). The four-layer stack was defined in the 2026 reframing; v0.1 floored Layer 1 only.
+- Reviewers are asked to comment on the motivation, the proposed change, the alternatives considered, the consequences, the migration path, and the open questions.
