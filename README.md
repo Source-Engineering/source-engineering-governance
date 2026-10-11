@@ -17,7 +17,7 @@ This repository governs how the Source Engineering discipline evolves. It holds 
 
 ## Provenance
 
-The change process in this repository is the discipline's first governance surface. It was established in Phase 1 of the discipline's polyrepo rollout (consolidated design at `/home/hermes/Projects/source-engineering-work/design/CONSOLIDATED-DESIGN.md`). The original governance content lived in the monorepo at `Source-Engineering/project-governance`; it has been migrated here as the authoritative home.
+The change process in this repository is the discipline's first governance surface. It was established in Phase 1 of the discipline's polyrepo rollout, per [ADR-0001](ADR/0001-polyrepo-organisation.md). The original governance content lived in the monorepo at `Source-Engineering/project-governance`; it has been migrated here as the authoritative home.
 
 ## How to engage
 
