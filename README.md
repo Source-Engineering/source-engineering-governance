@@ -1,8 +1,6 @@
-# Source Engineering -- Governance
+# Change process, ADRs, RFCs, maintainer responsibilities, release policy.
 
-> Change process, ADRs, RFCs, maintainer responsibilities, release policy.
-
-This repository governs how the Source Engineering discipline evolves. It holds the change process, the maintainer responsibilities, the ADR and RFC catalogues, and the per-channel discipline rules that bind the local tooling to the discipline.
+This repository governs how the concepts of Source Engineering discipline evolves. It holds the change process, the maintainer responsibilities, the ADR and RFC catalogues, and the per-channel discipline rules that bind the local tooling to the discipline.
 
 ## What is in this repository
 
