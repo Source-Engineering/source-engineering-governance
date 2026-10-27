@@ -21,12 +21,13 @@ All notable changes to the Source Engineering governance repo are recorded here.
 - The per-channel kanban discipline rule was previously held in `Source-Engineering/project-governance/.github/discipline-rule.md`. It has been migrated here as the canonical home; the monorepo's copy is deprecated with a pointer.
 
 
-## 2026-10-11 (RFC-0002 in review)
+## 2026-10-11 (RFC-0001 in review)
 
 ### Added
 
-- `RFC/0002-recursive-evidence-chains.md` -- the third foundational RFC. Closes the case study's open question Q3.2 (recursive evidence chains: when the COTS's evidence is itself a model-generated artefact, the COTS does not increase trust). Proposes: a `source_type` field on every EvidenceItem, a `chain_termination` policy on every COTS, and a `bounded_recursion` default with a recommended bound of 1. Adds 4 canonical conformance test cases (TC-RC-01..04). Open for review until 2026-10-25.
+- `RFC/0001-v0.2-floor-layer-2.md` -- the second foundational RFC. Proposes flooring Layer 2 (Runtime Validation) as the v0.2 floor. Open for review until 2026-10-25.
 
 ### Notes
 
-- RFC-0002 is interdependent with RFC-0001 (the v0.2 floor). RFC-0002 grounds RFC-0001's Layer 2 contract. The discipline's review may sequence the two acceptances.
+- The v0.2 floor is the natural next step after v0.1 (Typed Model). The four-layer stack was defined in the 2026 reframing; v0.1 floored Layer 1 only.
+- Reviewers are asked to comment on the motivation, the proposed change, the alternatives considered, the consequences, the migration path, and the open questions.
