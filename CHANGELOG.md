@@ -31,3 +31,9 @@ All notable changes to the Source Engineering governance repo are recorded here.
 
 - The v0.2 floor is the natural next step after v0.1 (Typed Model). The four-layer stack was defined in the 2026 reframing; v0.1 floored Layer 1 only.
 - Reviewers are asked to comment on the motivation, the proposed change, the alternatives considered, the consequences, the migration path, and the open questions.
+
+## [Unreleased]
+
+### Changed
+
+- RFC-0001 (v0.2 Floor: Layer 2) marked Implemented, with the landing evidence across the five repositories of the floor
