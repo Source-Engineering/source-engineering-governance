@@ -41,3 +41,7 @@ All notable changes to the Source Engineering governance repo are recorded here.
 ### Changed
 
 - RFC-0002 (recursive evidence chains) marked Implemented, with the landing evidence across the six repositories of the slice
+
+### Added
+
+- RFC-0003: the v0.4 floor proposal (Layer 3 Business Guardrails DSL): normative rule grammar, COTS schema v1.3.0 `decisions[*].guardrail` field, TC-L3 conformance cases, the Layer3 reference module, `se-trace check-guardrails`, handbook chapter 11, curriculum Unit 7
