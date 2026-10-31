@@ -37,3 +37,7 @@ All notable changes to the Source Engineering governance repo are recorded here.
 ### Changed
 
 - RFC-0001 (v0.2 Floor: Layer 2) marked Implemented, with the landing evidence across the five repositories of the floor
+
+### Changed
+
+- RFC-0002 (recursive evidence chains) marked Implemented, with the landing evidence across the six repositories of the slice
