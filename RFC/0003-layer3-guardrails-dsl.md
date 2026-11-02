@@ -4,7 +4,7 @@
 
 ## Status
 
-In Review
+Implemented. Landed as a vertical slice: the GuardrailDecision field (COTS schema v1.3.0), the normative rule grammar, and TC-L3-01..07 in `Source-Engineering/source-engineering-specifications`; the Layer3 parser/evaluator (binding rejection, advisory annotation, escalation, no silent rejection) in `Source-Engineering/source-engineering-reference-implementation`; TC-L3 validators in `Source-Engineering/source-engineering-conformance`; `se-trace check-guardrails` (stored-record printing and `--rules` re-evaluation) in `Source-Engineering/source-engineering-tools`; handbook chapter 11 in `Source-Engineering/source-engineering-practice`; curriculum Unit 7 in `Source-Engineering/source-engineering-education`. See the CHANGELOG in each repository.
 
 ## Champion
 
